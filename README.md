@@ -1,3 +1,3 @@
-# Aikacungwen HTML
+# Web CV untuk Melamar Kerja
 
-This project was created using the Aikacungwen HTML AI-powered web development environment.
+Proyek ini berisi web CV modern yang dibuat untuk keperluan melamar kerja di Pabrik Sanfang. Dibuat dengan HTML, Tailwind CSS, dan JavaScript.
